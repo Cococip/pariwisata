@@ -1,0 +1,84 @@
+<?php 
+include ("header.php");
+ ?>
+ <section id="services" class="services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          
+          <h3>Program Sekolah <br> SD Negeri 1 Gaden </h3>
+          <p>Berikut adalah Program Sekolah yang dimiliki SD Negeri 1 Gaden untuk menunjang pembelajaran di Sekolah</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class=""><img src="../assets/img/ruangkelas.jpg" style="height: 350px; width: 350px;"></div> <br>
+              <h4><a href="">Ruang Kelas</a></h4>
+              <p>Ruang Kelas SD Negeri 1 Gaden memiliki 6 Ruangan</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class=""><img src="../assets/img/ruangkelas.jpg" style="height: 350px; width: 350px;"></div> <br>
+              <h4><a href="">Ruang Guru</a></h4>
+              <p>Ruang Guru SD Negeri 1 Gaden memiliki 2 Ruangan</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class=""><img src="../assets/img/ruangkelas.jpg" style="height: 350px; width: 350px;"></div> <br>
+              <h4><a href="">Ruang Kepala Sekolah</a></h4>
+              <p>Ruang Kepala Sekolah SD Negeri 1 Gaden memiliki 1 Ruangan</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class=""><img src="../assets/img/ruangkelas.jpg" style="height: 350px; width: 350px;"></div> <br>
+              <h4><a href="">Perpustakaan</a></h4>
+              <p>SD Negeri 1 Gaden memiliki 1 Perpustakaan yang dapat digunakan para murid atau guru dan karyawan</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class=""><img src="../assets/img/ruangkelas.jpg" style="height: 350px; width: 350px;"></div> <br>
+              <h4><a href="">UKS</a></h4>
+              <p>SD Negeri 1 Gaden memiliki 1 Ruangan UKS yang memenuhi standar sekolah</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class=""><img src="../assets/img/halaman.jpg" style="height: 350px; width: 350px;"></div> <br>
+              <h4><a href="">Halaman Sekolah</a></h4>
+              <p>SD Negeri 1 Gaden memiliki halaman sekolah yang luas yang dapat digunakan untuk upacara bendera dan bermain murid</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+             <div class=""><img src="../assets/img/ruangkelas.jpg" style="height: 350px; width: 350px;"></div> <br>
+              <h4><a href="">Tempat Parkir</a></h4>
+              <p>SD Negeri 1 Gaden memiliki tempat parkir yang luas sebagai fasilitas Murid dan Guru murid</p>
+            </div>
+          </div>
+
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+             <div class=""><img src="../assets/img/ruangkelas.jpg" style="height: 350px; width: 350px;"></div> <br>
+              <h4><a href="">Kamar Mandi/WC</a></h4>
+              <p>SD Negeri 1 Gaden memiliki ? Kamar Mandi yang dapat di gunakan oleh murid </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    
+ <?php 
+include ("footer.php");
+ ?>
